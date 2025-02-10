@@ -1,0 +1,93 @@
+/* .carousel-inner img{
+    height:800px;
+}
+.carousel-item{
+    min-height: 80vh;
+    height: 300px;
+} */
+.rr{
+    height: 90vh;
+    object-fit: cover;
+}
+.sst1{
+    background-image: url("bgi1.jpg");
+background-color: rgb(176, 92, 68);
+
+
+}
+.navbar a:hover{
+    color: rgb(28, 180, 17);
+    background: #000;
+    border-radius: 20%;
+}
+.tt1 a{
+    background-color:  rgb(37, 82, 209);
+color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 25px;
+    border: 2px solid blue;
+   
+    
+    
+}
+
+.tt1{
+    text-align: center;
+}
+
+.sst2{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.ysr a{
+    text-decoration: none;
+    background-color: #014186;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: antiquewhite;
+   
+}
+
+.ysr{
+    background-color: #edebeb;
+}
+
+.sst3{
+    background-color: #3378ae;
+}
+
+.op1{
+    background-color: #3089cd;
+}
+.sde1{
+    background-color: #3089cd;
+}
+
+.bi{
+    /* background-color: #00000091; */
+    color:#04090e9a;
+}
+
+span .top{
+    color: rgba(255, 255, 0, 0.045);
+}
+
+u{
+    text-decoration: double;
+    color: black;
+    
+}
+.bi{
+    padding: 10px;
+    font-size: 20px;
+    
+    /* margin-left: 10px; */
+}
+
+.thes{
+    background-image: url(./img/cofi.webp);
+    background-size: cover;
+    color: #00000000;
+}
